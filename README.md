@@ -7,5 +7,6 @@ Interpretability using saliency mapping was planned to be used in order to visua
 The project can be deployed as an IPython Notebook to be run locally in a Jupyter Notebook or as a Google Colab instance for accessibility to users who may not have the necessary hardware to run the model locally.
 
 This project was run on:
+
 • Python 3.6
 • Tensorflow 2.6
