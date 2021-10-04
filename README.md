@@ -9,4 +9,5 @@ The project can be deployed as an IPython Notebook to be run locally in a Jupyte
 This project was run on:
 
 • Python 3.6
+
 • Tensorflow 2.6
