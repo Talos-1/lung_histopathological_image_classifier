@@ -1,7 +1,5 @@
 # Lung Histopathological Image Classifier
 
-Run the project online with [Binder](https://mybinder.org/v2/gh/Talos-1/lung_histopathological_image_classifier/HEAD)
-
 The primary goal of this project was to produce a deep learning solution that classifies lung histopathological images into three classes (benign, adenocarcinomas, and squamous cell carcinomas). The model is trained with transfer learning, using [MobileNetV2](https://github.com/Talos-1/lung_histopathological_image_classifier/blob/main/Sandler%20M%20et%20al.%2C%20MobileNetV2%20-%20Inverted%20Residuals%20and%20Linear%20Bottlenecks.pdf). The new model has been retrained on a dataset containing 15,000 RGB lung histopathological images, evenly split into three classes.
 
 Interpretability with saliency mapping was planned to be used in order to visually explain which features the model was looking at in determining which of the three classes it belongs to. The goal was to show a heatmap of an image with the brightest part being the feature that best explains the classification of an image by the model. This part of the project was not able to be completed during the project lifecycle.
